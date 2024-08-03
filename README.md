@@ -19,11 +19,20 @@ Desenvolvimento Web: Atualmente, estou mergulhado no universo de Laravel e React
 
 
 Tecnologias que Uso
+
 Laravel: Framework PHP que me ajuda a criar aplicações poderosas e elegantes.
+
 React: Biblioteca JavaScript para construir interfaces de usuário interativas e modernas.
+
 C#: Linguagem parruda que usei para construir aplicações durante dois anos.
+
+
 JavaScript: A base para muitas das minhas aventuras na web.
+
+
+
 Projetos em Destaque
+
 Aqui você encontrará projetos diversos que desenvolvi ao longo dos anos. Sinta-se à vontade para explorar e deixar seus comentários ou sugestões!
 
 
