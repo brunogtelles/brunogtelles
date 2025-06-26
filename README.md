@@ -11,9 +11,13 @@ What I Do
 💻 Web Dev: Currently diving deep into Laravel and React. I craft elegant, efficient solutions and chase challenges worthy of the "Laravel artisan" title wink.
 
 My Toolkit
+
 🔹 Laravel: PHP framework for building powerful, elegant apps.
+
 🔹 React: JavaScript library for modern, interactive UIs.
+
 🔹 C#: Beastly language I used for 2+ years.
+
 🔹 JavaScript: The foundation of my web adventures.
 
 Featured Projects
