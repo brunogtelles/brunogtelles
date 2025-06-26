@@ -6,7 +6,9 @@ About Me
 I'm Bruno Gabriel Telles, and my dev journey started years ago with C# and JavaScript. Since then, I've evolved to work with Laravel and React – two tools I'm constantly sharpening to keep them as staples in my tech arsenal.
 
 What I Do
+
 🎵 Music & Creativity: When I'm not coding, I'm playing music (been at it since childhood). Figuring out songs by ear is my go-to stress reliever during bug-fixing weeks.
+
 
 💻 Web Dev: Currently diving deep into Laravel and React. I craft elegant, efficient solutions and chase challenges worthy of the "Laravel artisan" title wink.
 
