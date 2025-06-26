@@ -1,45 +1,27 @@
-Olá! Eu sou Bruno Telles 🎸🚀
+Hey! I'm Bruno Telles 🎸🚀
 
-Bem-vindo ao meu perfil no GitHub! Sou um apaixonado por música, criativo por natureza e sempre em busca de novas formas de comunicar e criar. Aqui você encontrará um pouco do meu trabalho e das minhas aventuras no mundo do desenvolvimento.
+Welcome to my GitHub profile! I'm a music lover, naturally creative, and always exploring new ways to communicate and build things. Here you'll find some of my work and adventures in the dev world.
 
+About Me
+I'm Bruno Gabriel Telles, and my dev journey started years ago with C# and JavaScript. Since then, I've evolved to work with Laravel and React – two tools I'm constantly sharpening to keep them as staples in my tech arsenal.
 
+What I Do
+🎵 Music & Creativity: When I'm not coding, I'm playing music (been at it since childhood). Figuring out songs by ear is my go-to stress reliever during bug-fixing weeks.
 
-Sobre Mim
+💻 Web Dev: Currently diving deep into Laravel and React. I craft elegant, efficient solutions and chase challenges worthy of the "Laravel artisan" title wink.
 
-Me chamo Bruno Gabriel Telles, e meu caminho profissional no desenvolvimento começou há alguns anos com C# e JavaScript. Desde então, minha jornada evoluiu para trabalhar com Laravel e React – duas ferramentas que estou constantemente aprimorando para que façam a diferença do meu arsenal tecnológico atual.
+My Toolkit
+🔹 Laravel: PHP framework for building powerful, elegant apps.
+🔹 React: JavaScript library for modern, interactive UIs.
+🔹 C#: Beastly language I used for 2+ years.
+🔹 JavaScript: The foundation of my web adventures.
 
+Featured Projects
+Explore my diverse projects below! Feel free to comment or suggest ideas.
 
+Let’s Connect
+Want to brainstorm, discuss projects, or just chat about music/tech? Hit me up! Always open to collabs and opportunities.
 
-O Que Faço
+📧 Email: brunogabrieltelles@hotmail.com
 
-Música e Criatividade: Além de programar, sou músico desde criança. Gosto de tirar as músicas das bandas que ouço, me ajuda a desestressar nas semanas de resolução de bugs hehe.
-
-Desenvolvimento Web: Atualmente, estou mergulhado no universo de Laravel e React. Busco criar soluções elegantes e eficientes, e sempre estou em busca de novos desafios para honrar o apelido de artesão que os 'Laravers' carregam rs.
-
-
-
-Tecnologias que Uso
-
-Laravel: Framework PHP que me ajuda a criar aplicações poderosas e elegantes.
-
-React: Biblioteca JavaScript para construir interfaces de usuário interativas e modernas.
-
-C#: Linguagem parruda que usei para construir aplicações durante dois anos.
-
-
-JavaScript: A base para muitas das minhas aventuras na web.
-
-
-
-Projetos em Destaque
-
-Aqui você encontrará projetos diversos que desenvolvi ao longo dos anos. Sinta-se à vontade para explorar e deixar seus comentários ou sugestões!
-
-
-
-Entre em Contato
-Se você está interessado em trocar ideias, discutir projetos ou simplesmente bater um papo sobre música e tecnologia, não hesite em me contatar. Estou sempre aberto a novas colaborações e oportunidades!
-
-E-mail: brunogabrieltelles@hotmail.com
-
-Obrigado por passar por aqui e espero que você curta o que encontrar!
+Thanks for stopping by – hope you enjoy what you find!
